@@ -1,7 +1,7 @@
 var quoteList = [ 
 	{
-		quote: "Bro, go study",
-		source: "Homero"
+		quote: "Austin are you ready to partayyy",
+		source: "Homero Dominguez"
 	}
 ];
 
